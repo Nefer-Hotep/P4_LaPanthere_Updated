@@ -540,6 +540,7 @@ a[data-lightbox] {
 
 a[data-lightbox]:hover::before {
   content: "+";
+  line-height: 50px;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial;
   font-size: 32px;
